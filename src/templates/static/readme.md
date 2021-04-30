@@ -1,0 +1,1 @@
+## Managing static files (e.g. images, JavaScript, CSS)
